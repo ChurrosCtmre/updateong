@@ -1,0 +1,163 @@
+:root{
+    --color1:#002736;
+    --color2:#003348;
+    --color3:#00405B;
+    --color4:#2A5369;
+    --color5:#ffffff;
+    --color6:#747474;
+    --color7:#ffffff;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Madimi One", sans-serif;
+}
+
+.caja{
+    display: flex; 
+}
+.columna20{
+    width: 20%;
+    background-color: var(--color5);
+    padding-top: 20px;
+}
+.logoong{
+    width: 175px ;
+    height: 220px;
+    padding-bottom: 50px;
+}
+.logoinicio{
+    width: 32px;
+    height: 32px;
+    float: right;
+    padding-right: 50px;
+}
+.logonosotros{
+    width: 32px;
+    height: 32px;
+    float: right;
+    padding-right: 50px;
+}
+.logoperro{
+    width: 44px;
+    height: 44px;
+    float: right;
+    padding-right: 45px;
+}
+.logogato{
+    width: 46px;
+    height: 46px;
+    float: right;
+    padding-right: 42px;
+}
+.logocontacto{
+    width: 32px;
+    height: 32px;
+    float: right;
+    padding-right: 50px;
+}
+.columna80{
+    width:80%;
+    background-color: var(--color5);
+}
+
+.boton{
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 15px 30px;
+}
+/*Columna Derecha*/
+a{
+    color: var(--color1);
+    text-decoration: none;
+}
+.caja25{
+    height: 19vh;
+    padding: 30px;
+    color: var(--color5);
+
+}
+.caja1{
+    background-color: var(--color1);
+    width:88%;
+}
+.caja2{
+    background-color: var(--color2);
+    width:88%;
+}
+.caja3{
+    background-color: var(--color3);
+    width:88%;
+}
+.caja4{
+    background-color: var(--color4);
+    width:88%;
+}
+.titulo{
+    padding-top: 5%;
+}
+.columnatitulo{
+    width: 60%;
+    background-color: var(--color1);
+    height: auto;
+    color: var(--color5);
+    padding-top: 60px;
+}
+.tituloperros{
+    padding-bottom: 60px;
+}
+
+.caja5{
+    background-color: var(--color2);
+    height: 100%;
+}
+.fotosnoopy{
+    height: 300px;
+    width: 300px;
+    padding-left: 40px;
+    padding-top: 40px;
+    border-radius:30%;
+}
+.fotothor{
+    height: 250px;
+    width: 300px;
+    padding-top: 50px;
+    padding-right: 20px;
+    border-radius:30%;
+}
+.fotorocky{
+    height: 400px;
+    width: 400px;
+    padding-top: 40px;
+    padding-left: 40px;
+    border-radius:30%;
+}
+.gatonaranja{
+    padding-top: 40px;
+    padding-left: 40px;
+    border-radius: 30%;
+    width: 300px;
+    height: 210px;
+}
+.gatonegro{
+    padding-top: 40px;
+    padding-left: 40px;
+    border-radius: 30%;
+}
+.gatocomun{
+    padding-top: 40px;
+    padding-left: 40px;
+    border-radius: 30%;
+    width: 360px;
+    height: 300px;
+}
+.adopcion{
+    color: var(--color5);
+}
+.descripcion{
+    color: var(--color5);
+    padding-top: 20px;
+}
+.equipo{
+    padding-top: 60px;
+}
